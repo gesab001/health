@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+    <table style="text-align:right;" cellpadding="1" cellspacing="0" align="center">
+        <tbody>
+            <tr>
+                <td></td>
+                <td align="left"><b>The True Medical Missionary</b>
+                </td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>1.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-01.htm">Our Example</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 17]</td>
+            </tr>
+            <tr>
+                <td>2.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-02.htm">Days of Ministry</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 29]</td>
+            </tr>
+            <tr>
+                <td>3.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-03.htm">With Nature and With God</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 51]</td>
+            </tr>
+            <tr>
+                <td>4.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-04.htm">The Touch of Faith</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 59]</td>
+            </tr>
+            <tr>
+                <td>5.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-05.htm">Healing of the Soul</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 73]</td>
+            </tr>
+            <tr>
+                <td>6.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-06.htm">Saved to Serve</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 95]</td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td align="left"><b>The Work of the Physician</b>
+                </td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>7.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-07.htm">The Co-Working of the Divine and the Human</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 111]</td>
+            </tr>
+            <tr>
+                <td>8.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-08.htm">The Physician, an Educator</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 125]</td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td align="left"><b>Medical Missionaries and their Work</b>
+                </td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>9.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-09.htm">Teaching and Healing</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 139]</td>
+            </tr>
+            <tr>
+                <td>10.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-10.htm">Helping the Tempted</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 161]</td>
+            </tr>
+            <tr>
+                <td>11.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-11.htm">Working for the Intemperate</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 171]</td>
+            </tr>
+            <tr>
+                <td>12.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-12.htm">Help for the Unemployed and the Homeless</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 183]</td>
+            </tr>
+            <tr>
+                <td>13.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-13.htm">The Helpless Poor</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 201]</td>
+            </tr>
+            <tr>
+                <td>14.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-14.htm">Ministry to the Rich</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 209]</td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td align="left"><b>The Care of the Sick</b>
+                </td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>15.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-15.htm">In the Sickroom</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 219]</td>
+            </tr>
+            <tr>
+                <td>16.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-16.htm">Prayer for the Sick</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 225]</td>
+            </tr>
+            <tr>
+                <td>17.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-17.htm">The Use of Remedies</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 234]</td>
+            </tr>
+            <tr>
+                <td>18.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-18.htm">Mind Cure</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 241]</td>
+            </tr>
+            <tr>
+                <td>19.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-19.htm">In Contact with Nature</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 261]</td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td align="left"><b>Health Principles</b>
+                </td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>20.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-20.htm">General Hygiene</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 271]</td>
+            </tr>
+            <tr>
+                <td>21.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-21.htm">Hygiene Among the Israelites</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 277]</td>
+            </tr>
+            <tr>
+                <td>22.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-22.htm">Dress .</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 287]</td>
+            </tr>
+            <tr>
+                <td>23.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-23.htm">Diet and Health</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 295]</td>
+            </tr>
+            <tr>
+                <td>24.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-24.htm">Flesh as Food</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 311]</td>
+            </tr>
+            <tr>
+                <td>25.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-25.htm">Extremes in Diet</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 318]</td>
+            </tr>
+            <tr>
+                <td>26.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-26.htm">Stimulants and Narcotics</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 325]</td>
+            </tr>
+            <tr>
+                <td>27.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-27.htm">Liquor Traffic and Prohibition</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 337]</td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td align="left"><b>The Home</b>
+                </td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>28.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-28.htm">Ministry of the Home</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 349]</td>
+            </tr>
+            <tr>
+                <td>29.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-29.htm">The Builders of the Home</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 356]</td>
+            </tr>
+            <tr>
+                <td>30.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-30.htm">Choice and Preparation of the Home</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 363]</td>
+            </tr>
+            <tr>
+                <td>31.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-31.htm">The Mother</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 371]</td>
+            </tr>
+            <tr>
+                <td>32.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-32.htm">The Child</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 379]</td>
+            </tr>
+            <tr>
+                <td>33.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-33.htm">Home Influences</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 388]</td>
+            </tr>
+            <tr>
+                <td>34.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-34.htm">True Education, A Missionary Training</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 395]</td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td align="left"><b>The Essential Knowledge</b>
+                </td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>35.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-35.htm">A True Knowledge of God</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 409]</td>
+            </tr>
+            <tr>
+                <td>36.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-36.htm">Danger in Speculative Knowledge</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 427]</td>
+            </tr>
+            <tr>
+                <td>37.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-37.htm">The False and the True in Education</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 439]</td>
+            </tr>
+            <tr>
+                <td>38.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-38.htm">The Importance of Seeking True Knowledge</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 451]</td>
+            </tr>
+            <tr>
+                <td>39.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-39.htm">The Knowledge Received Through God's Word</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 458]</td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td align="left"><b>The Worker's Need</b>
+                </td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>40.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-40.htm">Help in Daily Living</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 469]</td>
+            </tr>
+            <tr>
+                <td>41.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-41.htm">In Contact With Others</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 483]</td>
+            </tr>
+            <tr>
+                <td>42.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-42.htm">Development and Service</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 497]</td>
+            </tr>
+            <tr>
+                <td>43.&nbsp;</td>
+                <td align="left"><a href="/books/bk-mh-43.htm">A Higher Experience</a>
+                </td>
+                <td>&nbsp;&nbsp;[p. 503]</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+
+<script>
+
+var tbody = document.getElementsByTagName("tbody")[0];
+
+console.log("hello");
+console.log(tbody);
+var trElements = tbody.children;
+var jsonObj = [];
+var sectionCount = -1;
+var chapterCount = 0;
+for (var x=0; x<trElements.length; x++){
+   var trElement = trElements[x];
+   var trElementText = trElement.innerText;
+   var td = trElement.getElementsByTagName("td")[1];
+   var aTag = td.getElementsByTagName("a");
+   if (td.hasAttribute("align")){
+      if (aTag.length===0){
+        console.log("its a title");
+        console.log(trElementText);
+        var jsonItem = {"sectionTitle": trElementText.trim(), "chapters": []};
+        jsonObj.push(jsonItem);      
+        sectionCount = sectionCount + 1;
+      }else{
+        chapterCount = chapterCount + 1;
+            console.log("its a chapter");
+        console.log(trElementText);
+        var url = aTag[0].href;
+        var jsonItem = {"chapterNumber": chapterCount, "chapterTitle": aTag[0].innerText.trim(), "url": url}; 
+        jsonObj[sectionCount]["chapters"].push(jsonItem);
+      }
+
+   }
+}
+
+console.log(JSON.stringify(jsonObj));
+
+</script>
+
+
+</html>
